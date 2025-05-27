@@ -6,3 +6,4 @@
 - **3-index.html**: Simple header, main, footer.
 - **article.html**: Aside.
 - **5-index.html**: Section.
+- **6-index.html**: Work, News, Testimonial articles.
