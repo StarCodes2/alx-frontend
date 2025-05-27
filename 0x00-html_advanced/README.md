@@ -8,3 +8,4 @@
 - **5-index.html**: Section.
 - **6-index.html**: Work, News, Testimonial articles.
 - **7-index.html**: Navigation.
+- **8-index.html**: Level 1 headings.
