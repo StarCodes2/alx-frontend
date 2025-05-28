@@ -13,3 +13,4 @@
 - **10-index.html**: Level 3 headings.
 - **11-styleguide.html**: styleguide.
 - **12-index.html**: Paragraphs.
+- **13-styleguide.html**: styleguide paragraphs.
