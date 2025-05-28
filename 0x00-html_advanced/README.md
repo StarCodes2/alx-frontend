@@ -16,3 +16,4 @@
 - **13-styleguide.html**: styleguide paragraphs.
 - **14-index.html**: Span.
 - **15-index.html**: Div.
+- **16-index.html**: Structure your sections.
