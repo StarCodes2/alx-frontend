@@ -18,4 +18,7 @@
 - **15-index.html**: Div.
 - **16-index.html**: Structure your sections.
 - **17-index.html**: Comments.
-- **18-index.html**: 
+- **18-index.html**: link your logo.
+- **about.html**: create the about page.
+- **latest_news.html**:  create the latest news page.
+- **contact.html**: create the contact page.
