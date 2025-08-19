@@ -22,3 +22,4 @@
 - **about.html**: create the about page.
 - **latest_news.html**:  create the latest news page.
 - **contact.html**: create the contact page.
+- **20-index.html**: Add links.
