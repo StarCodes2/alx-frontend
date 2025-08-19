@@ -25,3 +25,4 @@
 - **20-index.html**: Add links.
 - **21-index.html**: Add social media links.
 - **22-index.html**: Add button links.
+- **23-index.html**: Services, Works, and Latest news links.
