@@ -24,3 +24,4 @@
 - **contact.html**: create the contact page.
 - **20-index.html**: Add links.
 - **21-index.html**: Add social media links.
+- **22-index.html**: Add button links.
